@@ -1,13 +1,13 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD4zQikW0JcAw0-mwijKBZ_qCw67s9c8qE",
-  authDomain: "avtotest-3d00b.firebaseapp.com",
-  databaseURL: "https://avtotest-3d00b-default-rtdb.firebaseio.com",
-  projectId: "avtotest-3d00b",
-  storageBucket: "avtotest-3d00b.firebasestorage.app",
-  messagingSenderId: "629285982762",
-  appId: "1:629285982762:web:a7848eec016774d380a953",
-  measurementId: "G-0TP7XWX03R"
+  apiKey: "AIzaSyCyUykb9TQNSvQwnkN9nf0RMz5ss-Yx2VI",
+  authDomain: "sotuvavtotest.firebaseapp.com",
+  databaseURL: "https://sotuvavtotest-default-rtdb.firebaseio.com",
+  projectId: "sotuvavtotest",
+  storageBucket: "sotuvavtotest.firebasestorage.app",
+  messagingSenderId: "611564999891",
+  appId: "1:611564999891:web:a759f8fd0690a453e4f026",
+  measurementId: "G-6ZMNL1PMBV"
 };
 // Initialize Firebase
 if (!firebase.apps.length) {
