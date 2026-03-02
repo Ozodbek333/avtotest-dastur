@@ -107,7 +107,7 @@ export default function Login() {
                 <div className="login-card">
                     <div className="login-header">
                         <img className="login-logo" src="https://res.cloudinary.com/da51nlisj/image/upload/v1771664620/homebg2.b4d8a803_jshqvk.png" alt="Avto Test" />
-                        <span className="login-brand">Avto Test</span>
+                        <span className="login-brand">Samarqand Test</span>
                     </div>
 
                     <h1 className="login-title">Login</h1>
